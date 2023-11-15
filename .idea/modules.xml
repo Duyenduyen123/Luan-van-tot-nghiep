@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/TrainComposer/demo1/.idea/demo1.iml" filepath="E:/TrainComposer/demo1/.idea/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/php_mvc_noithat.iml" filepath="$PROJECT_DIR$/.idea/php_mvc_noithat.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/project/.idea/project.iml" filepath="$USER_HOME$/Desktop/project/.idea/project.iml" />
+    </modules>
+  </component>
+</project>
