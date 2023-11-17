@@ -33,28 +33,8 @@
                 </div>
 
             </div>
-
-            <div class="card mt-5">
-                <div class="card-header">
-                    <h4>How to Export Data from database in excel sheet using PHP</h4>
-                </div>
-                <div class="card-body">
-                    <form action="code.php" method="POST">
-                        <select name="export_file_type" class="form-control">
-                            <option value="xlsx">XLSX</option>
-                            <option value="xls">XLS</option>
-                            <option value="CSV">CSV</option>
-                        </select>
-                        
-                        <button type="submit" name="export_excel_data" class="btn btn-primary mt-3">Export</button>
-                    </form>
-
-                </div>
-
-            </div>
             </div>
         </div>
-
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/boostrap.bundle.min.js"></script>
